@@ -1,0 +1,89 @@
+{
+	"title": "Teste seus conhecimentos sobre videogame",
+	"questions": [
+		{
+			"id": 1,
+			"picture": "https://img.elo7.com.br/product/original/19685C1/painel-decorativo-mario-bros-mb15-banner.jpg",
+			"title": "Como se chama o personagem da direita?",
+			"explanation": "Mario (マリオ, Mario?) é um personagem fictício da franquia e série de jogos eletrônicos Mario da Nintendo, criado pelo desenvolvedor e designer de jogos eletrônicos japonês Shigeru Miyamoto. Servindo como mascote da Nintendo e protagonista homônimo da série, Mario já apareceu em mais de 200 jogos desde sua criação.",
+			"answers": [
+				{
+					"id": 1,
+					"title": "Mario",
+					"correct": true
+				},
+				{
+					"id": 2,
+					"title": "Luigi",
+					"correct": false
+				},
+				{
+					"id": 3,
+					"title": "Donkey Kong",
+					"correct": false
+				},
+				{
+					"id": 4,
+					"title": "Princesa",
+					"correct": false
+				}
+			]
+		},
+		{
+			"id": 2,
+			"picture": "https://image.redbull.com/rbcom/010/2017-03-24/1331850707531_2/0100/0/1/vamos-sentir-falta-desses-jogos-no-atari-flashback.jpg",
+			"title": "Qual foi o primeiro console do mundo?",
+			"explanation": "Magnavox Odyssey. O Magnavox Odyssey foi o primeiro video game console de jogos do mundo. Foi apresentado pela primeira vez em abril de 1972 e lançado em agosto do mesmo ano, antecipando o jogo Pong do console Atari em três anos",
+			"answers": [
+				{
+					"id": 5,
+					"title": "Atari",
+					"correct": false
+				},
+				{
+					"id": 6,
+					"title": "Magnavox Odyssey",
+					"correct": true
+				},
+				{
+					"id": 7,
+					"title": "Ameno",
+					"correct": false
+				},
+				{
+					"id": 8,
+					"title": "Ruim",
+					"correct": false
+				}
+			]
+		},
+		{
+			"id": 3,
+			"picture": "https://lh3.googleusercontent.com/MCvlo0iozye235XoarAgS7lcHDOyf02EsNkliJNRfp05UkvMVi35vHA-hpRIop_pDg",
+			"title": "Qual era o nome do jogo Pac-Man antes do mesmo ser comprado pela Bally?",
+			"explanation": "O jogo foi lançado em 22 de maio de 1980. ideia do desenho original ocorreu durante um jantar com amigos, e deve-se a uma pizza sem uma fatia, que fazia lembrar uma boca aberta; Assim tem origem uma personagem inspirada em Paku, uma personagem popular no Japão conhecido pelo seu apetite. A personagem e jogo tiveram o nome Puck-Man, do termo Japonês paku-paku, que significa a boca de alguém a abrir-se e fechar-se. Em 1980, a Bally comprou os direitos nos Estados Unidos; o personagem foi rebatizado Pac-Man, evitando que o nome fosse mal interpretado com o palavrão 'fuck', o jogo tornou-se famoso no ano seguinte.",
+			"answers": [
+				{
+					"id": 5,
+					"title": "The Packer",
+					"correct": false
+				},
+				{
+					"id": 6,
+					"title": "Pack-Pack",
+					"correct": false
+				},
+				{
+					"id": 7,
+					"title": "Eat-man",
+					"correct": false
+				},
+				{
+					"id": 8,
+					"title": "Paku-Paku",
+					"correct": true
+				}
+			]
+		}
+	]
+}
